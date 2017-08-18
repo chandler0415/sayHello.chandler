@@ -14,9 +14,9 @@ exports.sayHello = () => console.log('what you want to print');
 `$ npm publish`
 
 ### 5. 管理包权限  
-查看模块拥有者
+查看模块拥有者  
 `$ npm owner ls <package_name>`  
-添加一个发布者
+添加一个发布者  
 `$ npm owner add <user> <package_name>`  
 删除一个发布者  
 `$ npm owner rm <user> <package_name>`  

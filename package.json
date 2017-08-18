@@ -1,6 +1,6 @@
 {
   "name": "sayhello.chandler",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "first publish",
   "main": "index.js",
   "scripts": {
