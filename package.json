@@ -1,0 +1,22 @@
+{
+  "name": "sayhello.chandler",
+  "version": "0.0.1",
+  "description": "first publish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandler0415/sayHello.chandler.git"
+  },
+  "keywords": [
+    "fuck"
+  ],
+  "author": "Chandler0415 <dumplings0415@gmail.com> (https://github.com/Chandler0415)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chandler0415/sayHello.chandler/issues"
+  },
+  "homepage": "https://github.com/chandler0415/sayHello.chandler#readme"
+}
